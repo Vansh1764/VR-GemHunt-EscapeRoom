@@ -22,24 +22,27 @@ This project is a VR-based escape game developed using Unity. The player must na
 **• Interactive Objects:** Various interactable objects in the environment add to the immersion.
 
 
-Controls
-WASD: Move around.
-LSHIFT: Grab object with right hand.
-SPACEBAR: Grab object with left hand.
-Mouse: Look around the environment.
-Asset Credits
-LowPolyDungeonsLite: Environment assets for the dungeon and room.
-Gem Models: Custom 3D models used for the gems hidden in the room.
-Audio Assets:
-Grab sound: [Audio clip name]
-Background music: [Audio clip name]
-How the Game Works
-The player starts in a locked room.
-Explore the environment and locate three hidden gems.
-Pick up the gems and place them on the box.
-Once all gems are placed, the door will automatically open, and the player can escape.
-Known Issues
-Audio Toggle: Audio may not work if the Unity scene's audio is disabled. Ensure the audio is toggled on in the scene tab.
-Future Enhancements
-Improved Object Interactions: Adding more physics-based interactions.
-Additional Puzzles: Include more interactive elements and puzzles to solve before escaping.
+**Controls**
+
+**• WASD:** Move around.
+**• LSHIFT:** Grab object with right hand.
+**• SPACEBAR:** Grab object with left hand.
+**• Mouse:** Look around the environment.
+
+**• Asset Credits**
+   **• LowPolyDungeonsLite:** Environment assets for the dungeon and room.
+   **• Gem Models:** Custom 3D models used for the gems hidden in the room.
+   **• Audio Assets:**
+        **• Grab sound:** zapsplat_foley_luggage_2x_rucksacks_grab_001_87787.mp3
+        **• Background music:** glitched_tones_household_kitchen_cooking_water_rice_boil_pan_549.mp3
+        
+**• How the Game Works**
+     • The player starts in a locked room.
+     • Explore the environment and locate three hidden gems.
+     • Pick up the gems and place them on the box.
+     • Once all gems are placed, the door will automatically open, and the player can escape.
+     
+**• Known Issues**
+
+**• Audio Toggle:** Audio may not work if the Unity scene's audio is disabled. Ensure the audio is toggled on in the scene tab.
+
