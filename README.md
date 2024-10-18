@@ -28,8 +28,11 @@ This project is a VR-based escape game developed using Unity. The player must na
 **Controls**
 
    **→ WASD:** Move around.
+   
    **→ LSHIFT:** Grab object with right hand.
+   
    **→ SPACEBAR:** Grab object with left hand.
+   
    **→ Mouse:** Look around the environment.
 
 **• Asset Credits**
