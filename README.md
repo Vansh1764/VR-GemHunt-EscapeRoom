@@ -44,9 +44,9 @@ This project is a VR-based escape game developed using Unity. The player must na
    
    **→ Audio Assets:**
    
-        **• Grab sound:** zapsplat_foley_luggage_2x_rucksacks_grab_001_87787.mp3
+       • Grab sound: zapsplat_foley_luggage_2x_rucksacks_grab_001_87787.mp3
         
-        **• Background music:** glitched_tones_household_kitchen_cooking_water_rice_boil_pan_549.mp3
+       • Background music: glitched_tones_household_kitchen_cooking_water_rice_boil_pan_549.mp3
         
 **• How the Game Works**
      → The player starts in a locked room.
