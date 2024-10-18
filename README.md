@@ -10,6 +10,7 @@ This project is a VR-based escape game developed using Unity. The player must na
 **• VR Environment:** A fully immersive VR setting using the LowPolyDungeonsLite asset.
 
 **• Keyboard Controls:** Player can move around the room and interact with objects using standard keyboard controls.
+
     → WASD for movement.
     
     → LSHIFT to grab objects with the right hand.
