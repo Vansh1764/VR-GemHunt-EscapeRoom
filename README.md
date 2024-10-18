@@ -2,6 +2,7 @@
  
 
 **Project Overview**
+
 This project is a VR-based escape game developed using Unity. The player must navigate a virtual room, locate three hidden gems, and place them on a designated box. Once all three gems are placed, a door will open, allowing the player to escape the room. The game is controlled using the keyboard (WASD keys), without the need for physical VR controllers.
 
 Features
