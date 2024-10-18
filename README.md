@@ -49,6 +49,7 @@ This project is a VR-based escape game developed using Unity. The player must na
        • Background music: glitched_tones_household_kitchen_cooking_water_rice_boil_pan_549.mp3
         
 **• How the Game Works**
+
      → The player starts in a locked room.
      → Explore the environment and locate three hidden gems.
      → Pick up the gems and place them on the box.
